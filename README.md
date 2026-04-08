@@ -28,4 +28,5 @@ This project was built by following a hands-on AWS tutorial and implementing rea
 <h2>Architecture Diagram</h2>
 <img width="534" height="88" alt="Screenshot 2026-04-08 at 4 16 21 PM" src="https://github.com/user-attachments/assets/2a17ff52-c49e-4238-8ae6-0672dc7a5728" />
 
+<h1>Walkthrough</h1>
 <img src='https://github.com/user-attachments/assets/324f9179-2789-4733-a710-1f600075585a' />
