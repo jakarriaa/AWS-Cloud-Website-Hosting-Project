@@ -1,10 +1,10 @@
 # AWS-Cloud-Website-Hosting-Project
 
 <h2>Overview</h2>
-<h3>This project demonstrates how to deploy and host a cloud-based website using Amazon Web Services (AWS). The architecture includes EC2 for compute, S3 for storage, and RDS for database management, creating a scalable and production-ready cloud environment.
-This project was built by following a hands-on AWS tutorial and implementing real-world cloud infrastructure components.</h3>
+<b>This project demonstrates how to deploy and host a cloud-based website using Amazon Web Services (AWS). The architecture includes EC2 for compute, S3 for storage, and RDS for database management, creating a scalable and production-ready cloud environment.
+This project was built by following a hands-on AWS tutorial and implementing real-world cloud infrastructure components.</b>
 
--<b>Project Architecture</b>
+<h2>Project Architecture</h2>
 <ul> 
  <li>[Amazon EC2 — Virtual server hosting the web application]</li>
  <li>[Amazon S3 — Static file storage (images, assets, backups)]</li>
@@ -13,7 +13,7 @@ This project was built by following a hands-on AWS tutorial and implementing rea
  <li>[Security Groups — Network security configuration]</li>
 </ul>
 
--<b>Project Features</b>
+<h2>Project Features</h2>
 <ul> 
  <li>[Cloud-hosted website]</li>
  <li>[Scalable infrastructure]</li>
