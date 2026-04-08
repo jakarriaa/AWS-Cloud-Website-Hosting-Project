@@ -5,22 +5,27 @@
 This project was built by following a hands-on AWS tutorial and implementing real-world cloud infrastructure components.</h3>
 
 -<b>Project Architecture</b>
- -[Amazon EC2 — Virtual server hosting the web application]
- -[Amazon S3 — Static file storage (images, assets, backups)]
- -[Amazon RDS — Database for persistent storage]
- -[IAM — Secure access management]
- -[Security Groups — Network security configuration]
+<ul> 
+ <li>[Amazon EC2 — Virtual server hosting the web application]</li>
+ <li>[Amazon S3 — Static file storage (images, assets, backups)]</li>
+ <li>[Amazon RDS — Database for persistent storage]</li>
+ <li>[IAM — Secure access management]</li>
+ <li>[Security Groups — Network security configuration]</li>
+</ul>
 
 -<b>Project Features</b>
- -[Cloud-hosted website]
- -[Scalable infrastructure]
- -[Secure IAM roles and permissions]
- -[Database integration]
- -[Static asset storage using S3]
- -[Public access via EC2 instance]
- -[Real-world cloud deployment architecture]
+<ul> 
+ <li>[Cloud-hosted website]</li>
+ <li>[Scalable infrastructure]</li>
+ <li>[Secure IAM roles and permissions]</li>
+ <li>[Database integration]</li>
+ <li>[Static asset storage using S3]</li>
+ <li>[Public access via EC2 instance]</li>
+ <li>[Real-world cloud deployment architecture]</li>
+</ul>
+
 
 <h2>Architecture Diagram</h2>
-User → Internet → EC2 Instance → RDS Database
-                     ↓
-                    S3 Bucket (Static Files)
+<img width="534" height="88" alt="Screenshot 2026-04-08 at 4 16 21 PM" src="https://github.com/user-attachments/assets/2a17ff52-c49e-4238-8ae6-0672dc7a5728" />
+
+![getsitecontrol__convert-video-to-gif__free](https://github.com/user-attachments/assets/324f9179-2789-4733-a710-1f600075585a)
